@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+.recipe {
+  margin-bottom: 20px;
+}
+.recipe-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  flex-basis: auto;
+}
